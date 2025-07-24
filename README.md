@@ -23,6 +23,31 @@ The primary data source here is from the DSA Mall Transaction CSV file. This was
 - Power BI(for creating a report)
 - MS Powerpoint(for presentation)
 
+#### Data Cleaning and Preparation
+In the initial stage of data cleaning and preparation , we perform the following functions
+
+- Data loading and inspection
+- Handling missing variables
+- Data Cleaning and formatting
+
+### Explorative Data Analysis
+This involves exploring of the data to answer some questions about the data such as:
+
+- What is the total sale for each branch?
+- Which branch makes the highest revenue?
+- Which gender purchase more items from the malls?
+
+### Data Analysis
+This is where we used some queries to get the result of the above questions from our data.
+E.g
+
+```  SQL
+Select Branch, sum([Transaction Amount]) as [Total Sales]
+from [dbo].vw_DSA_MALL_Transactions
+group by Branch
+Order by [Total sales] desc
+
+
 
 
 
