@@ -9,9 +9,13 @@ I have learnt quite a numeber of things ranging from Excel to SQL and now to my 
 - [Tool Used](#ToolUsed)
 - [Data Cleaning and Preparation](#DataCleaningandPreparation)
 - [Explorative Data Analysis](#ExplorativeDataAnalysis)
-- [Data Analysis](#Da........t....a...............................\Iiness transactions in DSA mall across three branches; Australia, Bosnia and London. At the end of this project we were able to deduct which branch had the highest revenue for our business, which gender purchased more in all branches and total sales per branch.
+- [Data Analysis](#DataAnalysis)
+
+## Project Overview
+This project aims to compile the report of various business transactions in DSA mall across three branches; Australia, Bosnia and London. At the end of this project we were able to deduct which branch had the highest revenue for our business, which gender purchased more in all branches and total sales per branch.
 
 With this data, we could plan where and how to invest into our business to make more revenue for the company.
+
 
 ## Data Sources
 The primary data source here is from the DSA Mall Transaction CSV file. This was generated from ChatGPT following a prompt I imputed. This file was exported to Excel, then SQL environment for data analysis.
