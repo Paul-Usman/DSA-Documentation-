@@ -3,10 +3,13 @@ This is where I started my Portfolio building while taking my Data Analysis clas
 I have learnt quite a numeber of things ranging from Excel to SQL and now to my Portfolio building.
 
 ## Project Topic: Analysis of Business Transaction in DSA Mall from different Branches
-
-## Project Overview
-
-This project aims to compile the report of various business transactions in DSA mall across three branches; Australia, Bosnia and London. At the end of this project we were able to deduct which branch had the highest revenue for our business, which gender purchased more in all branches and total sales per branch.
+## Table of Contents
+- [Project Overview](#ProjectOverview)
+- [Data Sources](#DataSources)
+- [Tool Used](#ToolUsed)
+- [Data Cleaning and Preparation](#DataCleaningandPreparation)
+- [Explorative Data Analysis](#ExplorativeDataAnalysis)
+- [Data Analysis](#Da........t....a...............................\Iiness transactions in DSA mall across three branches; Australia, Bosnia and London. At the end of this project we were able to deduct which branch had the highest revenue for our business, which gender purchased more in all branches and total sales per branch.
 
 With this data, we could plan where and how to invest into our business to make more revenue for the company.
 
