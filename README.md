@@ -4,12 +4,12 @@ I have learnt quite a numeber of things ranging from Excel to SQL and now to my 
 
 ## Project Topic: Analysis of Business Transaction in DSA Mall from different Branches
 ## Table of Contents
-- [Project Overview](#ProjectOverview)
-- [Data Sources](#DataSources)
-- [Tool Used](#ToolUsed)
-- [Data Cleaning and Preparation](#DataCleaningandPreparation)
-- [Explorative Data Analysis](#ExplorativeDataAnalysis)
-- [Data Analysis](#DataAnalysis)
+- [Project Overview](#Project-Overview)
+- [Data Sources](#Data-Sources)
+- [Tool Used](#Tool-Used)
+- [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+- [Explorative Data Analysis](#Explorative-Data-Analysis)
+- [Data Analysis](#Data-Analysis)
 
 ## Project Overview
 This project aims to compile the report of various business transactions in DSA mall across three branches; Australia, Bosnia and London. At the end of this project we were able to deduct which branch had the highest revenue for our business, which gender purchased more in all branches and total sales per branch.
